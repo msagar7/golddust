@@ -7,3 +7,5 @@ dependencies:
   - pip
   - python=2.7
   - tensorflow
+  - PyWavelets
+  - keras
